@@ -1,0 +1,15 @@
+C:\Users\home\Desktop\учеба 1\Exampels\Exampel001_HelloConsole\Exampel006_Bes\bin\Debug\net6.0\Exampel006_Bes.exe
+C:\Users\home\Desktop\учеба 1\Exampels\Exampel001_HelloConsole\Exampel006_Bes\bin\Debug\net6.0\Exampel006_Bes.deps.json
+C:\Users\home\Desktop\учеба 1\Exampels\Exampel001_HelloConsole\Exampel006_Bes\bin\Debug\net6.0\Exampel006_Bes.runtimeconfig.json
+C:\Users\home\Desktop\учеба 1\Exampels\Exampel001_HelloConsole\Exampel006_Bes\bin\Debug\net6.0\Exampel006_Bes.dll
+C:\Users\home\Desktop\учеба 1\Exampels\Exampel001_HelloConsole\Exampel006_Bes\bin\Debug\net6.0\Exampel006_Bes.pdb
+C:\Users\home\Desktop\учеба 1\Exampels\Exampel001_HelloConsole\Exampel006_Bes\obj\Debug\net6.0\Exampel006_Bes.csproj.AssemblyReference.cache
+C:\Users\home\Desktop\учеба 1\Exampels\Exampel001_HelloConsole\Exampel006_Bes\obj\Debug\net6.0\Exampel006_Bes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\home\Desktop\учеба 1\Exampels\Exampel001_HelloConsole\Exampel006_Bes\obj\Debug\net6.0\Exampel006_Bes.AssemblyInfoInputs.cache
+C:\Users\home\Desktop\учеба 1\Exampels\Exampel001_HelloConsole\Exampel006_Bes\obj\Debug\net6.0\Exampel006_Bes.AssemblyInfo.cs
+C:\Users\home\Desktop\учеба 1\Exampels\Exampel001_HelloConsole\Exampel006_Bes\obj\Debug\net6.0\Exampel006_Bes.csproj.CoreCompileInputs.cache
+C:\Users\home\Desktop\учеба 1\Exampels\Exampel001_HelloConsole\Exampel006_Bes\obj\Debug\net6.0\Exampel006_Bes.dll
+C:\Users\home\Desktop\учеба 1\Exampels\Exampel001_HelloConsole\Exampel006_Bes\obj\Debug\net6.0\refint\Exampel006_Bes.dll
+C:\Users\home\Desktop\учеба 1\Exampels\Exampel001_HelloConsole\Exampel006_Bes\obj\Debug\net6.0\Exampel006_Bes.pdb
+C:\Users\home\Desktop\учеба 1\Exampels\Exampel001_HelloConsole\Exampel006_Bes\obj\Debug\net6.0\Exampel006_Bes.genruntimeconfig.cache
+C:\Users\home\Desktop\учеба 1\Exampels\Exampel001_HelloConsole\Exampel006_Bes\obj\Debug\net6.0\ref\Exampel006_Bes.dll
