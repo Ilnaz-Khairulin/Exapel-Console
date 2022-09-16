@@ -1,0 +1,15 @@
+C:\Users\home\Desktop\учеба 1\Exampels\Exampel001_HelloConsole\Exampel003_Sum\obj\Debug\net6.0\Exampel003_Sum.csproj.AssemblyReference.cache
+C:\Users\home\Desktop\учеба 1\Exampels\Exampel001_HelloConsole\Exampel003_Sum\obj\Debug\net6.0\Exampel003_Sum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\home\Desktop\учеба 1\Exampels\Exampel001_HelloConsole\Exampel003_Sum\obj\Debug\net6.0\Exampel003_Sum.AssemblyInfoInputs.cache
+C:\Users\home\Desktop\учеба 1\Exampels\Exampel001_HelloConsole\Exampel003_Sum\obj\Debug\net6.0\Exampel003_Sum.AssemblyInfo.cs
+C:\Users\home\Desktop\учеба 1\Exampels\Exampel001_HelloConsole\Exampel003_Sum\obj\Debug\net6.0\Exampel003_Sum.csproj.CoreCompileInputs.cache
+C:\Users\home\Desktop\учеба 1\Exampels\Exampel001_HelloConsole\Exampel003_Sum\bin\Debug\net6.0\Exampel003_Sum.exe
+C:\Users\home\Desktop\учеба 1\Exampels\Exampel001_HelloConsole\Exampel003_Sum\bin\Debug\net6.0\Exampel003_Sum.deps.json
+C:\Users\home\Desktop\учеба 1\Exampels\Exampel001_HelloConsole\Exampel003_Sum\bin\Debug\net6.0\Exampel003_Sum.runtimeconfig.json
+C:\Users\home\Desktop\учеба 1\Exampels\Exampel001_HelloConsole\Exampel003_Sum\bin\Debug\net6.0\Exampel003_Sum.dll
+C:\Users\home\Desktop\учеба 1\Exampels\Exampel001_HelloConsole\Exampel003_Sum\bin\Debug\net6.0\Exampel003_Sum.pdb
+C:\Users\home\Desktop\учеба 1\Exampels\Exampel001_HelloConsole\Exampel003_Sum\obj\Debug\net6.0\Exampel003_Sum.dll
+C:\Users\home\Desktop\учеба 1\Exampels\Exampel001_HelloConsole\Exampel003_Sum\obj\Debug\net6.0\refint\Exampel003_Sum.dll
+C:\Users\home\Desktop\учеба 1\Exampels\Exampel001_HelloConsole\Exampel003_Sum\obj\Debug\net6.0\Exampel003_Sum.pdb
+C:\Users\home\Desktop\учеба 1\Exampels\Exampel001_HelloConsole\Exampel003_Sum\obj\Debug\net6.0\Exampel003_Sum.genruntimeconfig.cache
+C:\Users\home\Desktop\учеба 1\Exampels\Exampel001_HelloConsole\Exampel003_Sum\obj\Debug\net6.0\ref\Exampel003_Sum.dll
