@@ -1,0 +1,15 @@
+C:\Users\home\Desktop\учеба 1\Exampels\Exampel001_HelloConsole\Exampel007_While\obj\Debug\net6.0\Exampel007_While.csproj.AssemblyReference.cache
+C:\Users\home\Desktop\учеба 1\Exampels\Exampel001_HelloConsole\Exampel007_While\obj\Debug\net6.0\Exampel007_While.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\home\Desktop\учеба 1\Exampels\Exampel001_HelloConsole\Exampel007_While\obj\Debug\net6.0\Exampel007_While.AssemblyInfoInputs.cache
+C:\Users\home\Desktop\учеба 1\Exampels\Exampel001_HelloConsole\Exampel007_While\obj\Debug\net6.0\Exampel007_While.AssemblyInfo.cs
+C:\Users\home\Desktop\учеба 1\Exampels\Exampel001_HelloConsole\Exampel007_While\obj\Debug\net6.0\Exampel007_While.csproj.CoreCompileInputs.cache
+C:\Users\home\Desktop\учеба 1\Exampels\Exampel001_HelloConsole\Exampel007_While\bin\Debug\net6.0\Exampel007_While.exe
+C:\Users\home\Desktop\учеба 1\Exampels\Exampel001_HelloConsole\Exampel007_While\bin\Debug\net6.0\Exampel007_While.deps.json
+C:\Users\home\Desktop\учеба 1\Exampels\Exampel001_HelloConsole\Exampel007_While\bin\Debug\net6.0\Exampel007_While.runtimeconfig.json
+C:\Users\home\Desktop\учеба 1\Exampels\Exampel001_HelloConsole\Exampel007_While\bin\Debug\net6.0\Exampel007_While.dll
+C:\Users\home\Desktop\учеба 1\Exampels\Exampel001_HelloConsole\Exampel007_While\bin\Debug\net6.0\Exampel007_While.pdb
+C:\Users\home\Desktop\учеба 1\Exampels\Exampel001_HelloConsole\Exampel007_While\obj\Debug\net6.0\Exampel007_While.dll
+C:\Users\home\Desktop\учеба 1\Exampels\Exampel001_HelloConsole\Exampel007_While\obj\Debug\net6.0\refint\Exampel007_While.dll
+C:\Users\home\Desktop\учеба 1\Exampels\Exampel001_HelloConsole\Exampel007_While\obj\Debug\net6.0\Exampel007_While.pdb
+C:\Users\home\Desktop\учеба 1\Exampels\Exampel001_HelloConsole\Exampel007_While\obj\Debug\net6.0\Exampel007_While.genruntimeconfig.cache
+C:\Users\home\Desktop\учеба 1\Exampels\Exampel001_HelloConsole\Exampel007_While\obj\Debug\net6.0\ref\Exampel007_While.dll
