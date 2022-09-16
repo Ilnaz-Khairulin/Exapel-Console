@@ -1,0 +1,15 @@
+C:\Users\home\Desktop\учеба 1\Exampels\Exampel001_HelloConsole\Exampel005_ifels\bin\Debug\net6.0\Exampel005_ifels.exe
+C:\Users\home\Desktop\учеба 1\Exampels\Exampel001_HelloConsole\Exampel005_ifels\bin\Debug\net6.0\Exampel005_ifels.deps.json
+C:\Users\home\Desktop\учеба 1\Exampels\Exampel001_HelloConsole\Exampel005_ifels\bin\Debug\net6.0\Exampel005_ifels.runtimeconfig.json
+C:\Users\home\Desktop\учеба 1\Exampels\Exampel001_HelloConsole\Exampel005_ifels\bin\Debug\net6.0\Exampel005_ifels.dll
+C:\Users\home\Desktop\учеба 1\Exampels\Exampel001_HelloConsole\Exampel005_ifels\bin\Debug\net6.0\Exampel005_ifels.pdb
+C:\Users\home\Desktop\учеба 1\Exampels\Exampel001_HelloConsole\Exampel005_ifels\obj\Debug\net6.0\Exampel005_ifels.csproj.AssemblyReference.cache
+C:\Users\home\Desktop\учеба 1\Exampels\Exampel001_HelloConsole\Exampel005_ifels\obj\Debug\net6.0\Exampel005_ifels.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\home\Desktop\учеба 1\Exampels\Exampel001_HelloConsole\Exampel005_ifels\obj\Debug\net6.0\Exampel005_ifels.AssemblyInfoInputs.cache
+C:\Users\home\Desktop\учеба 1\Exampels\Exampel001_HelloConsole\Exampel005_ifels\obj\Debug\net6.0\Exampel005_ifels.AssemblyInfo.cs
+C:\Users\home\Desktop\учеба 1\Exampels\Exampel001_HelloConsole\Exampel005_ifels\obj\Debug\net6.0\Exampel005_ifels.csproj.CoreCompileInputs.cache
+C:\Users\home\Desktop\учеба 1\Exampels\Exampel001_HelloConsole\Exampel005_ifels\obj\Debug\net6.0\Exampel005_ifels.dll
+C:\Users\home\Desktop\учеба 1\Exampels\Exampel001_HelloConsole\Exampel005_ifels\obj\Debug\net6.0\refint\Exampel005_ifels.dll
+C:\Users\home\Desktop\учеба 1\Exampels\Exampel001_HelloConsole\Exampel005_ifels\obj\Debug\net6.0\Exampel005_ifels.pdb
+C:\Users\home\Desktop\учеба 1\Exampels\Exampel001_HelloConsole\Exampel005_ifels\obj\Debug\net6.0\Exampel005_ifels.genruntimeconfig.cache
+C:\Users\home\Desktop\учеба 1\Exampels\Exampel001_HelloConsole\Exampel005_ifels\obj\Debug\net6.0\ref\Exampel005_ifels.dll
